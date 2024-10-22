@@ -12,6 +12,6 @@ int acker(int m, int n) {
 }
 
 int main() {
-	cout << acker(0, 1);
+	cout << acker(1, 1);
 	return 0;
 }
